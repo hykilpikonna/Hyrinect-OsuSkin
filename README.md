@@ -21,5 +21,17 @@
 Credits:
 --------
 
+Most of the resources are from those 
+
 * [Quiesce](https://osu.ppy.sh/users/1863682) - [Prism](https://osu.ppy.sh/community/forums/topics/324926)
 * [Choilicious](https://osu.ppy.sh/users/2129634) - [YoRHa](https://osu.ppy.sh/community/forums/topics/540757)
+
+<br>
+
+<a name="usage"></a>
+Usage:
+--------
+
+1. Put it in the osu skins folder.
+2. Select it from osu options menu.
+3. Done.
