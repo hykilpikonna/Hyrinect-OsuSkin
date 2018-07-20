@@ -16,3 +16,9 @@
 </h5>
 
 <br>
+
+<a name="credit"></a>
+Credits:
+--------
+
+* [Quiesce](https://osu.ppy.sh/users/1863682) - [Prism](https://osu.ppy.sh/community/forums/topics/324926)
