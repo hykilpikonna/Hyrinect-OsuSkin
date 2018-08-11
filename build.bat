@@ -1,0 +1,1 @@
+java -jar Hyrinecter-1.0-SNAPSHOT-shaded.jar build -fp="./Skin" -cp="./Build"
