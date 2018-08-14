@@ -3,6 +3,9 @@ Regular:
   FileName: '%{name} - %{first-author}.osk'
   Edits:
   - IGNORE .*\.psd
+  - COPY hit50.png TO hit50k.png
+  - COPY hit100.png TO hit100k.png
+  - COPY hit300.png TO hit300g.png TO hit300k.png
 
 Minimal:
   Format: OSK
