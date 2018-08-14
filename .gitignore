@@ -1,2 +1,4 @@
 Builder/.idea/*
 Builder/Builder.iml
+cache/*
+Build/*
