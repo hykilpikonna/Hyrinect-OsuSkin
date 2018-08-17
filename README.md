@@ -42,23 +42,31 @@ Resolutions:
 
 ### Currently Compatible Resolutions:
 
+```
 * 1920x1080 - 16:9
 * 1600x900  - 16:9
+* 1280x720  - 16:9
+
 * 1366x768  - 683:384 (It's fine to use 16:9 but there might be bugs.
 * 1360x768  - 85:48 (It's still fine to use 16:9 but there might be bugs.
-* 1280x720  - 16:9<br>
+```
 
 ### Currently Not Compatible but Going to be Compatible in Future Update Resolutions:
 
+```
 * 1680x1050 - 8:5
 * 1440x900  - 8:5
-* 1280x800  - 8:5<br>
-* 1280x768  - 5:3<br>
+* 1280x800  - 8:5
+
+* 1280x768  - 5:3
+```
 
 ### Never Going to be Compatible Resolutions:
 
+```
 * 1280x600  - 32:15
 * 1024x600  - 128:75 (It's suppose to be 16:9 but there's too many bugs so don't use.
+```
 
 <br>
 
