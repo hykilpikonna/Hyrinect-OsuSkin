@@ -2,9 +2,10 @@
 <br>
 
 <h1 align="center">
-  <a href="#!">
+  <!--a href="#!">
     <img src="https://i.imgur.com/0uquSh8.png" width=600>
-  </a>
+  </a-->
+  Hyrinect Skin (Todo: Add a logo)
 </h1>
 <h4 align="center">
   Everything Pink.
